@@ -1,2 +1,0 @@
-statefulset
-statefulsesssssssssssssssst
